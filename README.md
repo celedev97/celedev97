@@ -2,11 +2,11 @@
 
 Welcome to my terrible profile!
 
-**🔭 I’m currently working on:** [GitNarwhal](https://github.com/fc-dev/GitNarwhal)
+**🔭 I’m currently working on:** Some randome electron tests
 
-**🌱 I’m currently learning:** Kotlin
+**🌱 I’m currently learning:** Vuejs
 
-**👯 I’m looking to collaborate on:** anything if it's cool, tho i'd love some help with GitNarwhal.
+**👯 I’m looking to collaborate on:** anything if it's cool.
 
 **📫 How to reach me:** [Discord](https://discord.com/users/255395564072468480)
 
