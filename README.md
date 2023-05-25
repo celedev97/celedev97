@@ -2,25 +2,10 @@
 
 Welcome to my terrible profile!
 
-**🔭 I’m currently working on:** Some randome electron tests
+**🔭 I’m currently working on:** My job
 
-**🌱 I’m currently learning:** Vuejs
+**🌱 I’m currently learning:** NestJS
 
 **👯 I’m looking to collaborate on:** anything if it's cool.
 
 **📫 How to reach me:** [Discord](https://discord.com/users/255395564072468480)
-
-<!--
-**fc-dev/fc-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  ...
--  ...
--   ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--  ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
