@@ -74,7 +74,7 @@ Welcome to my terrible profile!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=celedev97&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=celedev97&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5t&card_width=320&hide_current_streak=true&hide_longest_streak=true" height="150" alt="streak graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=celedev97&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5t&card_width=320&hide_current_streak=true&hide_longest_streak=true" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=celedev97&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
