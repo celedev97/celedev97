@@ -4,7 +4,7 @@
 Welcome to my terrible profile!
 
 ### Quick Insight
-**🔭 I’m currently working on:** My job at Pitech / [GPG Notepad](https://github.com/celedev97/gpg-notepad)
+**🔭 I’m currently working on:** My job at Pitech / [Arcana Ferrum](https://arcanaferrum.com/)
 
 **🌱 I’m currently learning:** Svelte
 
