@@ -6,7 +6,7 @@ Welcome to my terrible profile!
 ### Quick Insight
 **🔭 I’m currently working on:** My job at Pitech / [Arcana Ferrum](https://arcanaferrum.com/)
 
-**🌱 I’m currently learning:** Svelte
+**🌱 I’m currently learning:** Astro
 
 **👯 I’m looking to collaborate on:** anything if it's cool!
 
